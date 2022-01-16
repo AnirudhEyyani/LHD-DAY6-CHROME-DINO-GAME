@@ -1,3 +1,3 @@
 # LHD-DAY6-CHROME-DINO-GAME
 
-heelo
+this is a dino game
