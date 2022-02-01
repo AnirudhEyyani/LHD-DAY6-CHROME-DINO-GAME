@@ -18,3 +18,8 @@ Run the local server inside the client folder
     <img src="../main/imgs/dino-demo1.png" width="60%">
     <img src="/imgs/dino-demo2.png" width="60%">
   <p align="center">
+
+     
+Features to add: <br>
+     Timer for how long the game went for<br>
+     making the game size a bit smaller<br>
